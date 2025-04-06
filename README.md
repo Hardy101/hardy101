@@ -15,8 +15,8 @@ I'm a **self-taught web developer** and a **Microbiology undergrad** who loves t
 ## 🧠 Currently Cooking
 
 - 🎫 Building an event invitee management tool with QR code check-ins
-- ✍️ Planning a 100-day writing challenge on [LinkedIn](#) and [Twitter](#) _(when life chills out a bit)_
-- 📚 Plotting a dystopian novel where **every birth means someone has to die**—literally
+- ✍️ Planning a 100-day writing challenge on [LinkedIn](https://www.linkedin.com/in/eghosaordia) and [Twitter](https://x.com/ordia_codes)
+- 📚 Plotting a dystopian novel where **every birth means someone has to die**—literally _(when life chills out a bit)_
 
 ---
 
